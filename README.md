@@ -10,7 +10,10 @@ so hers the problem
 **solution** - lets automate this process using uipath 
 
 step 1 - we'll read employees data like name ,phone,email etc from excel
+
 step 2 - iterate through excel rows and colums using for each row activity
+
 step 3 - fill the data to the dummy website using type info activity
+
 step 4 - use message box activity to read and show employee id and email to human user.
 
