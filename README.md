@@ -17,4 +17,4 @@ step 3 - fill the data to the dummy website using type info activity
 
 step 4 - use message box activity to read and show employee id and email to human user.
 
-Happy learning reach to me on linkdin - https://www.linkedin.com/in/lalit-singh-68aa03139/
+Happy learning  reach to me on linkdin - https://www.linkedin.com/in/lalit-singh-68aa03139/
